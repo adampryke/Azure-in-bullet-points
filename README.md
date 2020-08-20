@@ -162,10 +162,42 @@
 
 ### [AZ-301](https://www.microsoft.com/en-us/learning/exam-az-301.aspx): Microsoft Azure Architect Design
 
-1. [Designing for Identity and Security](AZ-301%20Microsoft%20Azure%20Architect%20Design/1.%20Designing%20for%20Identity%20and%20Security.md)
-2. [Designing a Data Platform Solution](AZ-301%20Microsoft%20Azure%20Architect%20Design/2.%20Designing%20a%20Data%20Platform%20Solution.md)
-3. [Designing for Deployment, Migration and Integration](AZ-301%20Microsoft%20Azure%20Architect%20Design/3.%20Designing%20for%20Deployment,%20Migration%20and%20Integration.md)
-4. [Designing an Infrastructure Strategy](AZ-301%20Microsoft%20Azure%20Architect%20Design/4.%20Designing%20an%20Infrastructure%20Strategy.md)
+1. Designing for Identity and Security
+   1. Security
+      1. Responsibilities
+      2. Azure datacenters
+      3. Azure Key Vault
+      4. Azure Active Directory (Azure AD)
+   2. SaaS services in Azure
+      1. Cognitive Services
+      2. Bots (Bot Services, QnA Maker)
+      3. Azure Machine Learning
+      4. Media Processing
+2. Designing a Data Platform Solution
+   1. Storage
+      1. Azure Storage
+         1. Storage Account
+      2. StorSimple
+   2. Databases
+      1. SQL
+         1. Azure SQL Database
+   3. Other data services (Azure Search, Cosmos DB, SQL Data Warehouse, Data Lake Store, Date Lake Analytics, Data Factory)
+   4. Azure Automation
+   5. Data Analysis (Azure Analysis Services, HDInsight, Azure Data Catalog).
+   6. Backup (Azure Backup & Azure Site Recovery)
+   7. Monitoring
+3. Designing for Deployment, Migration and Integration
+   1. Azure Resource Manager
+      1. Role-Based Access Control (RBAC)
+      2. Azure Resource Policies
+      3. Securing ARM templates
+      4. Deploying ARM templates
+   2. Managed Server Applications in Azure
+      1. High-Performance Compute (HPC)
+   3. Migration strategies
+   4. App Services
+   5. Authoring Serverless Applications in Azure
+4. Designing an Infrastructure Strategy
 
 [↑](#content)
 
